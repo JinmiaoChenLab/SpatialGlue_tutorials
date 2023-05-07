@@ -19,7 +19,7 @@ Integrated analysis of spatial multi-omics with SpatialGlue
    Tutorial 4_Horizontal Integration
    Tutorial 5_Vertical Integration
 
-.. image:: ../Figures/SpatialGlue.png
+.. image:: ./Figures/SpatialGlue.png
    :width: 1400
 
 Overview
