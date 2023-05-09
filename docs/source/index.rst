@@ -1,5 +1,5 @@
 Welcome to SpatialGlue's documentation!
-===================================
+========================================
 
 .. SpatialGlue documentation master file, created by
    sphinx-quickstart on Thu Sep 16 19:43:51 2021.
