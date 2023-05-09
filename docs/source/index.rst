@@ -18,7 +18,7 @@ Integrated analysis of spatial multi-omics with SpatialGlue
    Tutorial 3_data integration for mouse brain Spatial-ATAC-RNA-seq
 
 .. image:: ../Figures/SpatialGlue.png
-   :width: 1400
+   :width: 1600
 
 Overview
 ========
