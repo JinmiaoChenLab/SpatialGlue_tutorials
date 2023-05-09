@@ -13,11 +13,7 @@ Integrated analysis of spatial multi-omics with SpatialGlue
    :maxdepth: 1
    
    Installation
-   Tutorial 1_10X Visium
-   Tutorial 2_scRNA and ST data integration
-   Tutorial 3_Stereo-seq
-   Tutorial 4_Horizontal Integration
-   Tutorial 5_Vertical Integration
+   Tutorial 1_data integration for mouse spleen SPOTS
 
 .. image:: ./Figures/SpatialGlue.png
    :width: 1400
