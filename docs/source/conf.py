@@ -22,8 +22,6 @@ extensions = [
     'nbsphinx',
 ]
 
-highlight_language = 'none'
-
 suppress_warnings = [
     'nbsphinx.localfile',
     'nbsphinx.gallery',
