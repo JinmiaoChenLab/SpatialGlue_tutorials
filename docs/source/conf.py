@@ -19,7 +19,17 @@ extensions = [
     'sphinx.ext.intersphinx',
     'recommonmark',
     'sphinx_markdown_tables',
-    'nbsphinx'
+    'nbsphinx',
+]
+
+highlight_language = 'none'
+
+suppress_warnings = [
+    'nbsphinx.localfile',
+    'nbsphinx.gallery',
+    'nbsphinx.thumbnail',
+    'nbsphinx.notebooktitle',
+    'nbsphinx.ipywidgets',
 ]
 
 intersphinx_mapping = {
