@@ -17,7 +17,7 @@ To run the SpatialGlue package, two methods are provided. Note that the installa
 
 .. code-block:: python
 
-   - Open a terminal or command prompt.
+   - Open a terminal or command prompt
 
    - Run the following command: 'pip install SpatialGlue'
 
