@@ -20,6 +20,13 @@ Integrated analysis of spatial multi-omics with SpatialGlue
 
 .. image:: ./Figures/SpatialGlue.png
    :width: 1600
+   
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`   
 
 Overview
 ========
