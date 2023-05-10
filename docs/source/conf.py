@@ -28,6 +28,11 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+import os
+import sys
+
+sys.path.append(os.path.abspath("./docs/source"))
+
 #from recommonmark.parser import CommonMarkParser
 #source_parsers = {
 #    '.md': CommonMarkParser,
