@@ -17,17 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'recommonmark',
-    'sphinx_markdown_tables',
-    'nbsphinx',
-]
-
-suppress_warnings = [
-    'nbsphinx.localfile',
-    'nbsphinx.gallery',
-    'nbsphinx.thumbnail',
-    'nbsphinx.notebooktitle',
-    'nbsphinx.ipywidgets',
+    'nbsphinx'
 ]
 
 intersphinx_mapping = {
@@ -38,11 +28,11 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-from recommonmark.parser import CommonMarkParser
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-source_suffix = ['.rst', '.md']
+#from recommonmark.parser import CommonMarkParser
+#source_parsers = {
+#    '.md': CommonMarkParser,
+#}
+#source_suffix = ['.rst', '.md']
 
 # -- Options for HTML output
 
