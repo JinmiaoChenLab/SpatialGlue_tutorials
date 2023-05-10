@@ -17,11 +17,11 @@ To run the SpatialGlue package, two methods are provided. Note that the installa
 
 .. code-block:: python
 
-   -Open a terminal or command prompt
+   Open a terminal or command prompt
 
-   -Run the following command: 'pip install SpatialGlue'
+   Run the following command: 'pip install SpatialGlue'
 
-   -This command will download and install the SpatialGlue package from PyPI along with its dependencies. If any of the dependencies listed in the 'requirement.txt' file are missing, they will be installed automatically.
+   This command will download and install the SpatialGlue package from PyPI along with its dependencies. If any of the dependencies listed in the 'requirement.txt' file are missing, they will be installed automatically.
 
    Note: please ensure the pip version is python3.
    
