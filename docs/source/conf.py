@@ -42,7 +42,7 @@ from recommonmark.parser import CommonMarkParser
 source_parsers = {
     '.md': CommonMarkParser,
 }
-source_suffix = ['.rst', '.md', '.ipynb']
+source_suffix = ['.rst', '.md']
 
 # -- Options for HTML output
 
