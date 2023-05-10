@@ -30,6 +30,12 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+source_suffix = ['.rst', '.md', '.ipynb']
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
