@@ -32,7 +32,8 @@ templates_path = ['_templates']
 #source_parsers = {
 #    '.md': CommonMarkParser,
 #}
-#source_suffix = ['.rst', '.md']
+
+source_suffix = ['.rst']
 
 # -- Options for HTML output
 
