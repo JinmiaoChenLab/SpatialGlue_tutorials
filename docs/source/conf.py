@@ -28,17 +28,17 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-import os
-import sys
+#import os
+#import sys
 
-sys.path.append(os.path.abspath("/home/docs/checkouts/readthedocs.org/user_builds/spatialglue-tutorials/checkouts/latest/docs/source/index.rst"))
+#sys.path.append(os.path.abspath("/home/docs/checkouts/readthedocs.org/user_builds/spatialglue-tutorials/checkouts/latest/docs/source/index.rst"))
 
 #from recommonmark.parser import CommonMarkParser
 #source_parsers = {
 #    '.md': CommonMarkParser,
 #}
 
-master_doc = 'index'
+master_doc = 'docs/source/index'
 
 source_suffix = '.rst'
 
