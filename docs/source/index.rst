@@ -10,7 +10,7 @@ Integrated analysis of spatial multi-omics with SpatialGlue
 =====================================================================================================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
    
    Installation
