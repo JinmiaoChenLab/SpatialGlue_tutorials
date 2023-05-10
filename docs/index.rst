@@ -11,6 +11,7 @@ Integrated analysis of spatial multi-omics with SpatialGlue
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
    
    ./source/Installation
    ./source/Tutorial 1_data integration for mouse spleen SPOTS
