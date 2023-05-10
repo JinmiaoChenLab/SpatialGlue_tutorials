@@ -24,7 +24,7 @@ Integrated analysis of spatial multi-omics with SpatialGlue
 Indices and tables
 ==================
 
-* :ref:`genindex`
+* :./source/Tutorial 1_data integration for mouse spleen SPOTS:`genindex`
 * :ref:`modindex`
 * :ref:`search`   
 
