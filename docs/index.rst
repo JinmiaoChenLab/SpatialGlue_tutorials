@@ -12,7 +12,7 @@ Integrated analysis of spatial multi-omics with SpatialGlue——LYH
 .. toctree::
    :maxdepth: 1
    
-   Installation
+   Installation.rst
    Tutorial 1_data integration for mouse spleen SPOTS
    Tutorial 2_data integration for mouse thymus Stereo-CITE-seq
    Tutorial 3_data integration for mouse brain Spatial-ATAC-RNA-seq
