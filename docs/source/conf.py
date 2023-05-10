@@ -33,7 +33,9 @@ templates_path = ['_templates']
 #    '.md': CommonMarkParser,
 #}
 
-source_suffix = ['.rst']
+master_doc = 'index'
+
+source_suffix = '.rst'
 
 # -- Options for HTML output
 
