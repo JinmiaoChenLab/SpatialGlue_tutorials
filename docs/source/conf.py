@@ -31,7 +31,7 @@ templates_path = ['_templates']
 import os
 import sys
 
-sys.path.append(os.path.abspath("./docs/source"))
+sys.path.append(os.path.abspath("/home/docs/checkouts/readthedocs.org/user_builds/spatialglue-tutorials/checkouts/latest/docs/source/"))
 
 #from recommonmark.parser import CommonMarkParser
 #source_parsers = {
