@@ -12,10 +12,10 @@ Integrated analysis of spatial multi-omics with SpatialGlue
 .. toctree::
    :maxdepth: 1
    
-   Installation.rst
-   Tutorial 1_data integration for mouse spleen SPOTS
-   Tutorial 2_data integration for mouse thymus Stereo-CITE-seq
-   Tutorial 3_data integration for mouse brain Spatial-ATAC-RNA-seq
+   source/Installation
+   source/Tutorial 1_data integration for mouse spleen SPOTS
+   source/Tutorial 2_data integration for mouse thymus Stereo-CITE-seq
+   source/Tutorial 3_data integration for mouse brain Spatial-ATAC-RNA-seq
 
 .. image:: ./Figures/SpatialGlue.png
    :width: 1600
