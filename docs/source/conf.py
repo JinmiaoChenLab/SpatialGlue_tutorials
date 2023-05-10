@@ -20,7 +20,7 @@ extensions = [
     'nbsphinx'
 ]
 
-master_doc = 'index'
+master_doc = 'content'
 
 source_suffix = [".rst", ".md"]
 
