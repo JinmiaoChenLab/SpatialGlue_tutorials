@@ -38,7 +38,7 @@ templates_path = ['_templates']
 #    '.md': CommonMarkParser,
 #}
 
-master_doc = 'docs/source/index'
+master_doc = '/home/docs/checkouts/readthedocs.org/user_builds/spatialglue-tutorials/checkouts/latest/docs/source/index'
 
 source_suffix = '.rst'
 
