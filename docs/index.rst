@@ -6,7 +6,7 @@ Welcome to SpatialGlue's documentation!
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Integrated analysis of spatial multi-omics with SpatialGlue
+Integrated analysis of spatial multi-omics with SpatialGlue——LYH
 =====================================================================================================================================================
 
 .. toctree::
