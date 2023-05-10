@@ -20,6 +20,8 @@ extensions = [
     'nbsphinx'
 ]
 
+master_doc = 'index'
+
 source_suffix = [".rst", ".md"]
 
 intersphinx_mapping = {
