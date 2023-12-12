@@ -6,7 +6,7 @@ Welcome to SpatialGlue's documentation!
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Integrated analysis of spatial multi-omics with SpatialGlue
+Deciphering spatial domains from spatial multi-omics with SpatialGlue 
 =====================================================================================================================================================
 
 .. toctree::
@@ -18,13 +18,13 @@ Integrated analysis of spatial multi-omics with SpatialGlue
    Tutorial 2_data integration for mouse thymus Stereo-CITE-seq
    Tutorial 3_data integration for mouse brain Spatial-ATAC-RNA-seq
 
-.. image:: ../Figures/SpatialGlue.png
+.. image:: ../Figures/SpatialGlue.jpg
    :width: 1600 
 
 Overview
 ========
-SpatialGlue is a novel deep learning method for integrating spatial multi-omics data in a spatially informed manner. It utilizes a cycle graph neural network with a dual-attention mechanism to learn the significance of each modality at cross-omics and intra-omics integration. The method can accurately aggregate cell types or cell states at a higher resolution on different tissue types and technology platforms. Besides, it can provide interpretable insights into cross-modality spatial correlations. SpatialGlue is computationally efficient and it only requires about 5 mins for spatial multi-omics data at single-cell resolution (e.g., Spatial-ATAC-RNA-seq data, ~10,000 spots).
+Integration of multiple data modalities in a spatially informed manner remains an unmet need for exploiting spatial multi-omics data. Here, we introduce SpatialGlue, a novel graph neural network with dual-attention mechanism, to decipher spatial domains by intra-omics integration of spatial location and omics measurement followed by cross-omics integration. We demonstrate that SpatialGlue can more accurately resolve spatial domains at a higher resolution across different tissue types and technology platforms, to enable biological insights into cross-modality spatial correlations. SpatialGlue is computation resource efficient and can be applied for data from various spatial multi-omics technological platforms, including Spatial-epigenome-transcriptome, Stereo-CITE-seq, SPOTS, and 10x Visium. Next, we will extend SpatialGlue to more platforms, such as 10x Genomics Xenium and Nanostring CosMx. 
 
 Citation
 ========
-Yahui Long, Kok Siong Ang, Sha Liao, Raman Sethi, Yang Heng, Chengwei Zhong, Hang Xu, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, Xun Xu, Jinmiao Chen. Integrated analysis of spatial multi-omics with SpatialGlue. bioRxiv. 2023.
+Yahui Long, Kok Siong Ang, Sha Liao, Raman Sethi, Yang Heng, Chengwei Zhong, Hang Xu, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, Xun Xu, Jinmiao Chen. Deciphering spatial domains from spatial multi-omics with SpatialGlue. bioRxiv. 2023.
