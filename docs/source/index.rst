@@ -14,9 +14,10 @@ Deciphering spatial domains from spatial multi-omics with SpatialGlue
    :caption: Contents:
    
    Installation
-   Tutorial 1_data integration for mouse spleen SPOTS
+   Tutorial 1_data integration for human lymph node (10x Genomics Visium, in-house data)
    Tutorial 2_data integration for mouse thymus Stereo-CITE-seq
-   Tutorial 3_data integration for mouse brain Spatial-epigenome-transcriptome
+   Tutorial 3_data integration for mouse spleen SPOTS
+   Tutorial 4_data integration for mouse brain Spatial-epigenome-transcriptome
 
 .. image:: ../Figures/SpatialGlue.jpg
    :width: 1600 
