@@ -19,7 +19,7 @@ To run the SpatialGlue package, two methods are provided. Note that the installa
 
    Open a terminal or command prompt
 
-   Run the following command: 'pip install SpatialGlue'
+   Run the following command: 'pip install SpatialGlue' or 'pip install SpatialGlue_3M'
 
    This command will download and install the SpatialGlue package from PyPI along with its dependencies. If any of the dependencies listed in the 'requirement.txt' file are missing, they will be installed automatically.
 
@@ -42,9 +42,9 @@ For convenience, we recommend using a separate conda environment for running Spa
 
    conda activate SpatialGlue
 
-   #Install SpatialGlue package
+   #Install SpatialGlue (SpatialGlue_3M) package
 
-   pip install SpatialGlue
+   pip install SpatialGlue or pip install SpatialGlue_3M
 
  
    2) To use the environment in jupyter notebook, add python kernel for this environment.
