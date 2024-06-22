@@ -20,7 +20,7 @@ Deciphering spatial domains from spatial multi-omics with SpatialGlue
    Tutorial 4_data integration for mouse brain Spatial-epigenome-transcriptome
    Tutorial 5_data integration for triplet omics data (Simulation)
 
-.. image:: ../Figures/SpatialGlue.jpg
+.. image:: ../Figures/Workflow.jpg
    :width: 1600 
 
 Overview
