@@ -29,4 +29,4 @@ Integration of multiple data modalities in a spatially informed manner remains a
 
 Citation
 ========
-Yahui Long, Kok Siong Ang, Sha Liao, Raman Sethi, Yang Heng, Chengwei Zhong, Hang Xu, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, Xun Xu, Jinmiao Chen. Deciphering spatial domains from spatial multi-omics with SpatialGlue. bioRxiv. 2023.
+Yahui Long, Kok Siong Ang, Sha Liao, Raman Sethi, Yang Heng, Chengwei Zhong, Hang Xu, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, Xun Xu, Jinmiao Chen. Deciphering spatial domains from spatial multi-omics with SpatialGlue. **Nature Methods**. 2024.
